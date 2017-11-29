@@ -1,0 +1,84 @@
+@import url(http://fonts.googleapis.com/earlyaccess/droidarabickufi.css);
+body.rtl .dexp-dropdown ul.menu >li {
+    text-align: right;
+	float:right;
+	
+}
+#section-header a.site-logo {
+    margin-bottom: 20px;
+    display: block;
+    margin-top: 0;
+}
+body  {font-family: "Droid Arabic Kufi" , serif; } 
+body.rtl .dexp-dropdown ul.menu >li a  {font-family: "Droid Arabic Kufi" , serif;
+font-size:16px; 
+ } 
+{
+    float: right;
+    margin-top: 15px;
+}
+
+.dexp-shortcodes-box.box-border-line {
+ 
+    min-height: 320px;
+}
+
+.dexp-shortcodes-box .box-content .more-btn {
+    position: absolute;
+    bottom: 7px;
+    width: 86%;
+    text-align: center;
+}
+.texts1{
+right:10%; 
+font-size: 40px!important ;
+}
+.slidertxt{
+right:60%; 
+font-size: 40px!important ;
+text-shadow: -4px 3px 0 #222, 0px 7px 0 #777 ;  
+}
+
+
+#block-block-84 {margin-top:20px;
+text-align:center ; } 
+
+#block-block-47 p{font-size :20px ;
+ }
+.valuestxt li{font-size:20px; } 
+
+ 
+.portfolio-lft-txt , #block-block-59 p , #block-block-13 p {
+   
+    text-align: justify;
+}
+#block-views-clients-block img {
+border: 3px groove gold;
+border-radius: 5px ;
+}
+
+ul.dexp-portfolio-filter li, ul.dexp-masonry-filter li {
+    float: right;
+    margin: 0;
+}
+
+.panel-group .panel-title > a.collapsed h4, .panel-group .panel-title > a.collapsed strong {
+    border-color: #d4d4d4;
+    color: #ffffff;
+    background: #000;
+    font-size: 17px;
+}
+
+.page-node-40  .field-name-body  p {    
+font-size: 24px;
+    line-height: 42px;
+}
+
+.page-contact #section-our-works {
+    padding: 0;
+}
+ table.table-bordered td, table#properties-compare-table td {
+    text-align: right!important;
+}
+#block-block-60  {text-align: right;}
+ 

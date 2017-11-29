@@ -1,0 +1,6 @@
+.dexp-dropdown ul.menu li ul.menu{ 
+	display: none;  
+} 
+.dexp-dropdown ul.menu li:hover ul.menu {
+	display: block;      
+}

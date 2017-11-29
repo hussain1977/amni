@@ -1,0 +1,5 @@
+[02-Jun-2017 01:45:02 UTC] PHP Fatal error:  Class 'ViewsUiBaseViewsWizard' not found in /home/amnwwafa/public_html/sites/all/modules/views/plugins/views_wizard/views_ui_comment_views_wizard.class.php on line 11
+[02-Jun-2017 01:45:03 UTC] PHP Fatal error:  Class 'ViewsUiNodeViewsWizard' not found in /home/amnwwafa/public_html/sites/all/modules/views/plugins/views_wizard/views_ui_node_revision_views_wizard.class.php on line 11
+[02-Jun-2017 01:45:04 UTC] PHP Fatal error:  Class 'ViewsUiBaseViewsWizard' not found in /home/amnwwafa/public_html/sites/all/modules/views/plugins/views_wizard/views_ui_users_views_wizard.class.php on line 11
+[02-Jun-2017 01:45:07 UTC] PHP Fatal error:  Class 'ViewsUiBaseViewsWizard' not found in /home/amnwwafa/public_html/sites/all/modules/views/plugins/views_wizard/views_ui_node_views_wizard.class.php on line 11
+[02-Jun-2017 01:45:08 UTC] PHP Fatal error:  Class 'ViewsUiBaseViewsWizard' not found in /home/amnwwafa/public_html/sites/all/modules/views/plugins/views_wizard/views_ui_taxonomy_term_views_wizard.class.php on line 11
